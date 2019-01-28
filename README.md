@@ -1,2 +1,1 @@
-# ban313
-Industrial Analysis (BAN 313)
+# Industrial Analysis (BAN 313)
